@@ -1,26 +1,54 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import APIRouter, Query, HTTPException
-from typing import Optional
+import logging
+
 from get_items_of_user import get_items_of_user
 from get_stat_of_user import get_stat_of_user
 
-app = FastAPI()
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Или "*" для всех доменов (небезопасно в продакшене)
-    allow_credentials=True,
-    allow_methods=["*"],  # Разрешает все HTTP-методы (GET, POST и т.д.)
-    allow_headers=["*"],  # Разрешает все заголовки
+from fastapi import FastAPI, APIRouter, Query
+import logging
+from datetime import datetime
+
+logging.basicConfig(
+    level=logging.DEBUG,  # Для разработки используем DEBUG
+    format='%(asctime)s [%(levelname)s] %(message)s',
+    handlers=[
+        logging.StreamHandler(),  # Вывод в консоль
+    ]
 )
+logger = logging.getLogger(__name__)
+
+app = FastAPI()
 router = APIRouter()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Для теста разрешаем все домены
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-@router.get("/", summary="Получить данные пользователя")
+@router.get("/test")
+async def test():
+    logger.debug("Тестовое сообщение")
+    return {"status": "ok"}
+
+@router.get("/")
 async def get_user_info(
-        steamId: str = Query(..., description="Steam ID пользователя", min_length=10, max_length=20)
+    steamId: str = Query(..., description="Steam ID пользователя")
 ):
-    get_items_of_user(steamId)
-    return get_stat_of_user(steamId)
+    logger.info(f"Получен запрос для SteamID: {steamId}")
+    try:
+        logger.debug("Начало обработки запроса")
+        get_items_of_user(steamId)
+        response_data = get_stat_of_user(steamId)
+        logger.debug(f"Успешный ответ")
+        return response_data
+    except Exception as e:
+        logger.error(f"Ошибка: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail=str(e))
 
 app.include_router(router)
+logger.info("Приложение запущено")

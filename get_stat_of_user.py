@@ -1,10 +1,10 @@
 import json
 import os
 from dotenv import load_dotenv
+import base64
 
 load_dotenv()
 #id = os.getenv('STEAM_ID')
-
 
 def get_stat_of_user(steam_id):
     colors = {
@@ -35,6 +35,8 @@ def get_stat_of_user(steam_id):
         user_items = json.load(file)
         for item in user_items["descriptions"]:
             user_count[item['name_color']] += 1
+            with open(f"icons/{item['name']}.jpg", "rb") as img:
+                item["binary_image"] = base64.b64encode(img.read()).decode("utf-8")
             user_items_group_by_color[item['name_color']].append(item)
             set_user_items_classid.add(item['classid'])
 
@@ -62,8 +64,6 @@ def get_stat_of_user(steam_id):
 
     stat = {"general": [], "collection": []}
     for value, name in colors.items():
-    #    print(f"{name}: {user_count[value]} / {all_count[value]}")
-
         stat['general'].append({
             "name": name,
             "user_n": user_count[value],
@@ -79,3 +79,6 @@ def get_stat_of_user(steam_id):
         json.dump(stat, file, ensure_ascii=False, indent=4)
 
     return stat
+
+
+#get_stat_of_user(id)
