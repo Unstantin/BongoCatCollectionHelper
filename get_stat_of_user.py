@@ -15,6 +15,9 @@ def get_stat_of_user(steam_id):
         "FFB000": "legendary"
     }
 
+    with open("tag_to_classid.json") as file:
+        tag_to_classid = json.load(file)
+
     user_count = {
         "B0B0B0": 0,
         "5ACC3D": 0,
@@ -22,7 +25,6 @@ def get_stat_of_user(steam_id):
         "B939DB": 0,
         "FFB000": 0
     }
-    user_items = None
     user_items_group_by_color = {
         "B0B0B0": [],
         "5ACC3D": [],
@@ -37,6 +39,7 @@ def get_stat_of_user(steam_id):
             user_count[item['name_color']] += 1
             with open(f"icons/{item['name']}.jpg", "rb") as img:
                 item["binary_image"] = base64.b64encode(img.read()).decode("utf-8")
+                item["tag"] = tag_to_classid[item["classid"]]
             user_items_group_by_color[item['name_color']].append(item)
             set_user_items_classid.add(item['classid'])
 

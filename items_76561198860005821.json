@@ -187,14 +187,6 @@
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032226759474",
-            "classid": "6788572717",
-            "instanceid": "0",
-            "amount": "1"
-        },
-        {
-            "appid": 3419430,
-            "contextid": "2",
             "assetid": "623292032226759514",
             "classid": "6785549548",
             "instanceid": "0",
@@ -291,40 +283,96 @@
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032228020405",
-            "classid": "6577609319",
+            "assetid": "623292032228150249",
+            "classid": "6788572717",
             "instanceid": "0",
             "amount": "1"
         },
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032228042286",
-            "classid": "6589894700",
+            "assetid": "623292032228173635",
+            "classid": "6788579419",
             "instanceid": "0",
             "amount": "1"
         },
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032228057242",
-            "classid": "6788584062",
+            "assetid": "623292032228191420",
+            "classid": "6587908158",
             "instanceid": "0",
             "amount": "1"
         },
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032228073034",
-            "classid": "6788645852",
+            "assetid": "623292032228191459",
+            "classid": "6583348907",
             "instanceid": "0",
             "amount": "1"
         },
         {
             "appid": 3419430,
             "contextid": "2",
-            "assetid": "623292032228088003",
-            "classid": "6587462209",
+            "assetid": "623292032228203609",
+            "classid": "6578795708",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228216625",
+            "classid": "6535285740",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228548343",
+            "classid": "6918035963",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228565549",
+            "classid": "6577843567",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228585078",
+            "classid": "6788579419",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228602743",
+            "classid": "6583573899",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228618864",
+            "classid": "6535596477",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
+            "assetid": "623292032228638840",
+            "classid": "6535389651",
             "instanceid": "0",
             "amount": "1"
         },
@@ -685,14 +733,6 @@
             "contextid": "2",
             "assetid": "810190235646943587",
             "classid": "6594069423",
-            "instanceid": "0",
-            "amount": "1"
-        },
-        {
-            "appid": 3419430,
-            "contextid": "2",
-            "assetid": "810190235646958914",
-            "classid": "6587908158",
             "instanceid": "0",
             "amount": "1"
         },
@@ -1473,39 +1513,6 @@
         },
         {
             "appid": 3419430,
-            "classid": "6788572717",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrIG0L5oEWxpoOEFrVrCbrIbp_rIQO",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrIG0L5oEWxpoOEFrVrCbrIbp_rIQO",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Rubix Cube",
-            "name_color": "B0B0B0",
-            "type": "",
-            "market_name": "Rubix Cube",
-            "market_hash_name": "Rubix Cube",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "common",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
             "classid": "6788579626",
             "instanceid": "0",
             "currency": 0,
@@ -1863,12 +1870,78 @@
         },
         {
             "appid": 3419430,
-            "classid": "6577609319",
+            "classid": "6788572717",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6NGMP0qcCwrYkHFuV8jjiI4l2v-4",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6NGMP0qcCwrYkHFuV8jjiI4l2v-4",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrIG0L5oEWxpoOEFrVrCbrIbp_rIQO",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrIG0L5oEWxpoOEFrVrCbrIbp_rIQO",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Rubix Cube",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Rubix Cube",
+            "market_hash_name": "Rubix Cube",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6788579419",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0MGMN8IoC0LYkHFuV8jjigKeN8KE",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0MGMN8IoC0LYkHFuV8jjigKeN8KE",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Melon Hat",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Melon Hat",
+            "market_hash_name": "Melon Hat",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6587908158",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb2J24M-achwY0iB3ba8h_mKeeGs1UYFAwWNMc",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb2J24M-achwY0iB3ba8h_mKeeGs1UYFAwWNMc",
             "descriptions": [
                 {
                     "type": "html",
@@ -1876,11 +1949,11 @@
                 }
             ],
             "tradable": 0,
-            "name": "Calm Leaf",
+            "name": "Orange Beret Cap",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Calm Leaf",
-            "market_hash_name": "Calm Leaf",
+            "market_name": "Orange Beret Cap",
+            "market_hash_name": "Orange Beret Cap",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -1896,12 +1969,12 @@
         },
         {
             "appid": 3419430,
-            "classid": "6589894700",
+            "classid": "6583348907",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbgNH0M3KMPyLYkHFuV8jjiFurwZZY",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbgNH0M3KMPyLYkHFuV8jjiFurwZZY",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OngA8bsrxYsOEFrVrCbrIfo7DOCJ",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OngA8bsrxYsOEFrVrCbrIfo7DOCJ",
             "descriptions": [
                 {
                     "type": "html",
@@ -1909,11 +1982,44 @@
                 }
             ],
             "tradable": 0,
-            "name": "Yarn Ball",
+            "name": "Cowboy Hat",
+            "name_color": "5ACC3D",
+            "type": "",
+            "market_name": "Cowboy Hat",
+            "market_hash_name": "Cowboy Hat",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "uncommon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Uncommon"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6578795708",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb-J2oH8IUNy5IiO1TPyzXqKKfYrVx9Ex8GkA",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb-J2oH8IUNy5IiO1TPyzXqKKfYrVx9Ex8GkA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Green Gnome Hat",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Yarn Ball",
-            "market_hash_name": "Yarn Ball",
+            "market_name": "Green Gnome Hat",
+            "market_hash_name": "Green Gnome Hat",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -1929,24 +2035,18 @@
         },
         {
             "appid": 3419430,
-            "classid": "6788584062",
+            "classid": "6535285740",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OWAV8IsAy5FpA1vcPfTwUjE",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OWAV8IsAy5FpA1vcPfTwUjE",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
-                }
-            ],
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbpIH0S8qczxY0zCn3a9h_mKeeGs1UYYynl1RI",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbpIH0S8qczxY0zCn3a9h_mKeeGs1UYYynl1RI",
             "tradable": 0,
-            "name": "Clown",
+            "name": "Purple Party Hat",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Clown",
-            "market_hash_name": "Clown",
+            "market_name": "Purple Party Hat",
+            "market_hash_name": "Purple Party Hat",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -1962,24 +2062,24 @@
         },
         {
             "appid": 3419430,
-            "classid": "6788645852",
+            "classid": "6918035963",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGYO8bArxYsOEFrVrCbrIbRMa9Rc",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGYO8bArxYsOEFrVrCbrIbRMa9Rc",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbtPGEk8asP7J4zOlbU7Hj1KO54iBNBaA",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbtPGEk8asP7J4zOlbU7Hj1KO54iBNBaA",
             "descriptions": [
                 {
                     "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                    "value": "Dropped during the April Fools' event 2025<br><br>Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
                 }
             ],
             "tradable": 0,
-            "name": "Sailor Hat",
+            "name": "Tin Foil Hat",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Sailor Hat",
-            "market_hash_name": "Sailor Hat",
+            "market_name": "Tin Foil Hat",
+            "market_hash_name": "Tin Foil Hat",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -1995,12 +2095,12 @@
         },
         {
             "appid": 3419430,
-            "classid": "6587462209",
+            "classid": "6583573899",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb7OmAJ16EMytE3HVLgBX8j_w",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb7OmAJ16EMytE3HVLgBX8j_w",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGEW_4oC0LYkHFuV8jjitBQWbso",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGEW_4oC0LYkHFuV8jjitBQWbso",
             "descriptions": [
                 {
                     "type": "html",
@@ -2008,11 +2108,38 @@
                 }
             ],
             "tradable": 0,
-            "name": "Book",
+            "name": "Santa Hat",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Book",
-            "market_hash_name": "Book",
+            "market_name": "Santa Hat",
+            "market_hash_name": "Santa Hat",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6535389651",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrMGs28bILxYsOEFrVrCbrIdomuuV1",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbrMGs28bILxYsOEFrVrCbrIdomuuV1",
+            "tradable": 0,
+            "name": "Red Tophat",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Red Tophat",
+            "market_hash_name": "Red Tophat",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -2094,6 +2221,39 @@
         },
         {
             "appid": 3419430,
+            "classid": "6589894700",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbgNH0M3KMPyLYkHFuV8jjiFurwZZY",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbgNH0M3KMPyLYkHFuV8jjiFurwZZY",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Yarn Ball",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Yarn Ball",
+            "market_hash_name": "Yarn Ball",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
             "classid": "6788592882",
             "instanceid": "0",
             "currency": 0,
@@ -2139,6 +2299,39 @@
             "type": "",
             "market_name": "Blue Ribbon",
             "market_hash_name": "Blue Ribbon",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6577609319",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6NGMP0qcCwrYkHFuV8jjiI4l2v-4",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6NGMP0qcCwrYkHFuV8jjiI4l2v-4",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Calm Leaf",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Calm Leaf",
+            "market_hash_name": "Calm Leaf",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -2583,6 +2776,39 @@
         },
         {
             "appid": 3419430,
+            "classid": "6788645852",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGYO8bArxYsOEFrVrCbrIbRMa9Rc",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGYO8bArxYsOEFrVrCbrIbRMa9Rc",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Sailor Hat",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Sailor Hat",
+            "market_hash_name": "Sailor Hat",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
             "classid": "6592151169",
             "instanceid": "0",
             "currency": 0,
@@ -2611,39 +2837,6 @@
                     "internal_name": "common",
                     "localized_category_name": "Quality",
                     "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
-            "classid": "6583348907",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OngA8bsrxYsOEFrVrCbrIfo7DOCJ",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OngA8bsrxYsOEFrVrCbrIfo7DOCJ",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Cowboy Hat",
-            "name_color": "5ACC3D",
-            "type": "",
-            "market_name": "Cowboy Hat",
-            "market_hash_name": "Cowboy Hat",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "uncommon",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Uncommon"
                 }
             ]
         },
@@ -2682,18 +2875,24 @@
         },
         {
             "appid": 3419430,
-            "classid": "6535285740",
+            "classid": "6788584062",
             "instanceid": "0",
             "currency": 0,
             "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbpIH0S8qczxY0zCn3a9h_mKeeGs1UYYynl1RI",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbpIH0S8qczxY0zCn3a9h_mKeeGs1UYYynl1RI",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OWAV8IsAy5FpA1vcPfTwUjE",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb6OWAV8IsAy5FpA1vcPfTwUjE",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
             "tradable": 0,
-            "name": "Purple Party Hat",
+            "name": "Clown",
             "name_color": "B0B0B0",
             "type": "",
-            "market_name": "Purple Party Hat",
-            "market_hash_name": "Purple Party Hat",
+            "market_name": "Clown",
+            "market_hash_name": "Clown",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -2961,39 +3160,6 @@
         },
         {
             "appid": 3419430,
-            "classid": "6578795708",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb-J2oH8IUNy5IiO1TPyzXqKKfYrVx9Ex8GkA",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb-J2oH8IUNy5IiO1TPyzXqKKfYrVx9Ex8GkA",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Green Gnome Hat",
-            "name_color": "B0B0B0",
-            "type": "",
-            "market_name": "Green Gnome Hat",
-            "market_hash_name": "Green Gnome Hat",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "common",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
             "classid": "6608425929",
             "instanceid": "0",
             "currency": 0,
@@ -3088,6 +3254,39 @@
                     "internal_name": "uncommon",
                     "localized_category_name": "Quality",
                     "localized_tag_name": "Uncommon"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
+            "classid": "6587462209",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb7OmAJ16EMytE3HVLgBX8j_w",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb7OmAJ16EMytE3HVLgBX8j_w",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Book",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Book",
+            "market_hash_name": "Book",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
                 }
             ]
         },
@@ -3252,72 +3451,6 @@
         },
         {
             "appid": 3419430,
-            "classid": "6587908158",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb2J24M-achwY0iB3ba8h_mKeeGs1UYFAwWNMc",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb2J24M-achwY0iB3ba8h_mKeeGs1UYFAwWNMc",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Orange Beret Cap",
-            "name_color": "B0B0B0",
-            "type": "",
-            "market_name": "Orange Beret Cap",
-            "market_hash_name": "Orange Beret Cap",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "common",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
-            "classid": "6583573899",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGEW_4oC0LYkHFuV8jjitBQWbso",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLbqNGEW_4oC0LYkHFuV8jjitBQWbso",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/RobotDentist/\" target=\"_blank\" rel=\"\" >RobotDentist</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Santa Hat",
-            "name_color": "B0B0B0",
-            "type": "",
-            "market_name": "Santa Hat",
-            "market_hash_name": "Santa Hat",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "common",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
             "classid": "6788615775",
             "instanceid": "0",
             "currency": 0,
@@ -3410,7 +3543,7 @@
             ]
         }
     ],
-    "total_inventory_count": 91,
+    "total_inventory_count": 96,
     "success": 1,
     "rwgrsn": -2
 }
