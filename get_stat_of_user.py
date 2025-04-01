@@ -39,7 +39,7 @@ def get_stat_of_user(steam_id):
             user_count[item['name_color']] += 1
             with open(f"icons/{item['name']}.jpg", "rb") as img:
                 item["binary_image"] = base64.b64encode(img.read()).decode("utf-8")
-                item["tag"] = tag_to_classid[item["classid"]]
+            item["tag"] = tag_to_classid[item["classid"]]
             user_items_group_by_color[item['name_color']].append(item)
             set_user_items_classid.add(item['classid'])
 
@@ -62,8 +62,10 @@ def get_stat_of_user(steam_id):
         all_items = json.load(file)
         for item in all_items:
             all_count[item['asset_description']['name_color']] += 1
+            item["tag"] = tag_to_classid[item['asset_description']["classid"]]
             if item['asset_description']['classid'] not in set_user_items_classid:
                 other_items_group_by_color[item['asset_description']['name_color']].append(item)
+
 
     stat = {"general": [], "collection": []}
     for value, name in colors.items():

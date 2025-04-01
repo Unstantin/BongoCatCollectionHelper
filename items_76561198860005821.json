@@ -379,6 +379,14 @@
         {
             "appid": 3419430,
             "contextid": "2",
+            "assetid": "623292032228657295",
+            "classid": "6788592882",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 3419430,
+            "contextid": "2",
             "assetid": "810190235642912204",
             "classid": "6785549550",
             "instanceid": "0",
@@ -2155,6 +2163,39 @@
         },
         {
             "appid": 3419430,
+            "classid": "6788592882",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0NGsj8KUG1rYkHFuV8jji2PvK8GE",
+            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0NGsj8KUG1rYkHFuV8jji2PvK8GE",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
+                }
+            ],
+            "tradable": 0,
+            "name": "Mad Anger",
+            "name_color": "B0B0B0",
+            "type": "",
+            "market_name": "Mad Anger",
+            "market_hash_name": "Mad Anger",
+            "commodity": 1,
+            "market_tradable_restriction": -1,
+            "market_marketable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "quality",
+                    "internal_name": "common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Common"
+                }
+            ]
+        },
+        {
+            "appid": 3419430,
             "classid": "6785549550",
             "instanceid": "0",
             "currency": 0,
@@ -2239,39 +2280,6 @@
             "type": "",
             "market_name": "Yarn Ball",
             "market_hash_name": "Yarn Ball",
-            "commodity": 1,
-            "market_tradable_restriction": -1,
-            "market_marketable_restriction": 7,
-            "marketable": 1,
-            "tags": [
-                {
-                    "category": "quality",
-                    "internal_name": "common",
-                    "localized_category_name": "Quality",
-                    "localized_tag_name": "Common"
-                }
-            ]
-        },
-        {
-            "appid": 3419430,
-            "classid": "6788592882",
-            "instanceid": "0",
-            "currency": 0,
-            "background_color": "",
-            "icon_url": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0NGsj8KUG1rYkHFuV8jji2PvK8GE",
-            "icon_url_large": "CKUjmNXE6isbjcu2ZbZHeUSYV9tQnwmUuXR99NzJmIHGEiyzUP-VEz7P4szkA-flbLb0NGsj8KUG1rYkHFuV8jji2PvK8GE",
-            "descriptions": [
-                {
-                    "type": "html",
-                    "value": "Credits: <a class=\"bb_link\" href=\"https://steamcommunity.com/id/neonflores/\" target=\"_blank\" rel=\"\" >Neon Flores</a>"
-                }
-            ],
-            "tradable": 0,
-            "name": "Mad Anger",
-            "name_color": "B0B0B0",
-            "type": "",
-            "market_name": "Mad Anger",
-            "market_hash_name": "Mad Anger",
             "commodity": 1,
             "market_tradable_restriction": -1,
             "market_marketable_restriction": 7,
@@ -3543,7 +3551,7 @@
             ]
         }
     ],
-    "total_inventory_count": 96,
+    "total_inventory_count": 97,
     "success": 1,
     "rwgrsn": -2
 }
